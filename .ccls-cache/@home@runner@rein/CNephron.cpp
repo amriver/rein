@@ -1,5 +1,5 @@
 #include "CNephron.h"
-using namespace std;
+
 
 CNephron::CNephron()
 {
